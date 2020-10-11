@@ -1,0 +1,13 @@
+^\.github/actions/spelling/
+(?:^|/)go\.(sum|mod)$
+\.ai$
+\.eps$
+\.ico$
+\.jar$
+\.jpg$
+\.lock$
+\.pdf$
+\.png$
+\.svg$
+\.zip$
+ignore$
